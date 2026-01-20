@@ -1,5 +1,5 @@
 netid: mmariaru
-ghid: mythicalcoding740
+ghid: mythicalcoding730
 
 
 I am Mithun Titus Maria Ruban Raj, and I am a sophomore majoring in Computer Science. I am excited to learn more about the software development processes while also
